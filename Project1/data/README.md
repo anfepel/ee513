@@ -1,6 +1,6 @@
 # Raw captures
 
-The A2–A4 raw files are too big for git (about 660 MB), so they live in the GitHub Release as `captures.zip`. Unzip it at the top of the repo and it puts each folder back where `config.json` expects it:
+The A2–A4 raw files are too big for git (about 660 MB), so they live in the GitHub Release as `captures.zip`. Unzip it at the top of the repo and it puts each folder back where the notebooks expect it:
 
 | Folder | Files | What | Captured |
 |---|---|---|---|
