@@ -1,0 +1,11 @@
+{
+  "color_metric": "CIEDE2000",
+  "color_reference": "colour-science ColorChecker24 - After November 2014 (D50), white = patch 19",
+  "color_mean_delta_e_before": 11.74,
+  "color_mean_delta_e_after": 2.45,
+  "color_worst_patch_after": {
+    "patch": "purplish blue",
+    "delta_e": 5.17
+  },
+  "color_mean_delta_e_after_uncertainty": 0.11
+}
