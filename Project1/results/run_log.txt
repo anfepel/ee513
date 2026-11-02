@@ -1,0 +1,20 @@
+[inventory] calibration_dir: 19 files, lens_id OK, ISO [100.0, 125.0, 160.0, 200.0], t [0.00833, 0.01667]
+[inventory] edge_dir: 10 files, lens_id OK, ISO [200.0], t [0.00833]
+[inventory] flat_dir: 20 files, lens_id OK, ISO [64.0], t [0.125]
+[inventory] dark_dir: 4 files, lens_id OK, ISO [64.0], t [0.002, 0.04, 1.0]
+[inventory] color_dir: 12 files, lens_id OK, ISO [400.0], t [0.0025]
+[inventory] one camera across all series: iPhone 17 Pro Max back camera 6.765mm f/1.78, BGGR, 4032x3024
+[geometry] 17/19 views, RMS 0.665 px; fx 2924.8 ± 14.1, cx 2024.1 ± 4.3, k1 +0.1817 ± 0.0058, k2 -0.5223 ± 0.0376
+[geometry] coverage 1442/2527 px; models k1: rms 0.9039, disp@cov 33.5 px, @corner 180.2 px; k1,k2: rms 0.6649, disp@cov 19.2 px, @corner -393.1 px; k1,k2,k3: rms 0.6637, disp@cov 18.0 px, @corner -641.6 px
+[mtf] 10 captures, squares: ['bottom-left', 'bottom-right', 'centre', 'top-left', 'top-right']
+[mtf] centre        r=0.08  MTF50 0.285 ± 0.021 cy/green px, MTF@Nyq 0.205
+[mtf] top-right     r=0.36  MTF50 0.224 ± 0.021 cy/green px, MTF@Nyq 0.146
+[mtf] bottom-right  r=0.37  MTF50 0.234 ± 0.021 cy/green px, MTF@Nyq 0.159
+[mtf] top-left      r=0.46  MTF50 0.170 ± 0.013 cy/green px, MTF@Nyq 0.109
+[mtf] bottom-left   r=0.47  MTF50 0.188 ± 0.014 cy/green px, MTF@Nyq 0.127
+[noise] 10 pairs, 8 below 70%; K 0.2727 ± 0.0142 DN/e-, read 6.68 ± 0.61 e-, single-frame K 0.2977
+[noise] DR 10.93 ± 0.09 stops, full well 13079 e-; dark 8.41 e-/s; vendor K 0.316, read 11.22
+[color] ILU1_1.dng: rot 180, neutrals ok True, mean ΔE00 before 11.78 after 2.57 vendor FM 6.38 (CCT 3165 K)
+[color] ILU1_2.dng: rot 180, neutrals ok True, mean ΔE00 before 11.64 after 2.41 vendor FM 6.18 (CCT 3167 K)
+[color] ILU1_3.dng: rot 180, neutrals ok True, mean ΔE00 before 11.80 after 2.36 vendor FM 6.39 (CCT 3176 K)
+[color] mean ΔE00 before 11.74, after 2.45 ± 0.11, LOO 2.53, vendor FM 6.32

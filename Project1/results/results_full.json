@@ -1,0 +1,1391 @@
+{
+ "camera": {
+  "make": "Apple",
+  "model": "iPhone 17 Pro Max",
+  "lens_model": "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+  "f_mm": 6.764999865652793,
+  "f35_mm": 24.0,
+  "N": 1.8,
+  "width_px": 4032,
+  "height_px": 3024,
+  "cfa": "BGGR",
+  "black_dn": 528.0,
+  "white_dn": 4095.0,
+  "lens_id": [
+   "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+   "6.765",
+   "24",
+   "(256, 192)"
+  ],
+  "series": {
+   "calibration_dir": {
+    "n": 19,
+    "lens_id": [
+     "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+     "6.765",
+     "24",
+     "(256, 192)"
+    ],
+    "iso": [
+     100.0,
+     125.0,
+     160.0,
+     200.0
+    ],
+    "exposure_s": [
+     0.00833,
+     0.01667
+    ],
+    "software": [
+     "Adobe Lightroom 11.6.1 (iOS)"
+    ]
+   },
+   "edge_dir": {
+    "n": 10,
+    "lens_id": [
+     "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+     "6.765",
+     "24",
+     "(256, 192)"
+    ],
+    "iso": [
+     200.0
+    ],
+    "exposure_s": [
+     0.00833
+    ],
+    "software": [
+     "Adobe Lightroom 11.6.1 (iOS)"
+    ]
+   },
+   "flat_dir": {
+    "n": 20,
+    "lens_id": [
+     "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+     "6.765",
+     "24",
+     "(256, 192)"
+    ],
+    "iso": [
+     64.0
+    ],
+    "exposure_s": [
+     0.125
+    ],
+    "software": [
+     "Adobe Lightroom 11.6.10 (iOS)"
+    ]
+   },
+   "dark_dir": {
+    "n": 4,
+    "lens_id": [
+     "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+     "6.765",
+     "24",
+     "(256, 192)"
+    ],
+    "iso": [
+     64.0
+    ],
+    "exposure_s": [
+     0.002,
+     0.04,
+     1.0
+    ],
+    "software": [
+     "Adobe Lightroom 11.6.10 (iOS)"
+    ]
+   },
+   "color_dir": {
+    "n": 12,
+    "lens_id": [
+     "iPhone 17 Pro Max back camera 6.765mm f/1.78",
+     "6.765",
+     "24",
+     "(256, 192)"
+    ],
+    "iso": [
+     400.0
+    ],
+    "exposure_s": [
+     0.0025
+    ],
+    "software": [
+     "Adobe Lightroom 11.6.10 (iOS)"
+    ]
+   }
+  }
+ },
+ "geometry": {
+  "n_views_used": 17,
+  "n_views_total": 19,
+  "not_detected": [
+   "calib_target015.dng",
+   "calib_target017.dng"
+  ],
+  "board_inner": [
+   9,
+   6
+  ],
+  "square_mm": 20.0,
+  "image_size_wh": [
+   4032,
+   3024
+  ],
+  "rms_reprojection_px": 0.6649,
+  "rms_reprojection_px_pm": [
+   0.6649,
+   0.0545
+  ],
+  "square_mm_measured": [
+   20.0,
+   0.5
+  ],
+  "per_view_rms_px": {
+   "calib_target001.dng": 0.476,
+   "calib_target002.dng": 0.49,
+   "calib_target003.dng": 0.523,
+   "calib_target004.dng": 0.64,
+   "calib_target005.dng": 0.71,
+   "calib_target006.dng": 0.721,
+   "calib_target007.dng": 0.549,
+   "calib_target008.dng": 0.75,
+   "calib_target009.dng": 0.715,
+   "calib_target010.dng": 0.505,
+   "calib_target011.dng": 0.362,
+   "calib_target012.dng": 0.52,
+   "calib_target013.dng": 0.569,
+   "calib_target014.dng": 1.073,
+   "calib_target016.dng": 0.984,
+   "calib_target018.dng": 0.528,
+   "calib_target019.dng": 0.766
+  },
+  "std_opencv": {
+   "fx": 2.8379886968822,
+   "fy": 2.996252818822639,
+   "cx": 2.197046461721626,
+   "cy": 2.453304120993735,
+   "k1": 0.002450991522714344,
+   "k2": 0.01353657201046099,
+   "p1": 0.0003901581666552232,
+   "p2": 0.0002780991840522174
+  },
+  "std_jackknife": {
+   "fx": 14.101625782674553,
+   "fy": 13.603054774578352,
+   "cx": 4.315730535060202,
+   "cy": 3.9711343664295358,
+   "k1": 0.005751086151905684,
+   "k2": 0.03764513834794425,
+   "p1": 0.0005612897492052559,
+   "p2": 0.000567321677144588,
+   "rms": 0.05452312428074085
+  },
+  "pitch_um_exif_route": [
+   2.4198,
+   0.0504
+  ],
+  "straightness_far_rows_px": {
+   "before_median": 0.8866797561390592,
+   "after_median": 0.2350813153697407,
+   "before_all_median": 0.6887388161108394,
+   "after_all_median": 0.1737663820037886
+  },
+  "residual_rms_x_px": 0.4747917950153351,
+  "residual_rms_y_px": 0.4654483199119568,
+  "fx": [
+   2924.77,
+   14.1
+  ],
+  "fy": [
+   2927.41,
+   13.6
+  ],
+  "cx": [
+   2024.14,
+   4.32
+  ],
+  "cy": [
+   1513.48,
+   3.97
+  ],
+  "k1": [
+   0.18172,
+   0.00575
+  ],
+  "k2": [
+   -0.52233,
+   0.03765
+  ],
+  "p1": [
+   -0.00234,
+   0.00056
+  ],
+  "p2": [
+   -0.00075,
+   0.00057
+  ],
+  "fx_mm": [
+   7.077,
+   0.151
+  ],
+  "fy_mm": [
+   7.084,
+   0.151
+  ],
+  "f_mm_exif": 6.764999865652793,
+  "fx_over_fy": 0.9991,
+  "coverage": {
+   "max_corner_radius_px": 1442.0,
+   "frame_corner_radius_px": 2527.0,
+   "covered_fraction_of_corner_radius": 0.571
+  },
+  "distortion_model_comparison": {
+   "k1": {
+    "rms_px": 0.9039,
+    "fx": 2925.5,
+    "k": [
+     0.0955,
+     0.0,
+     0.0
+    ],
+    "disp_at_covered_radius_px": 33.5,
+    "disp_at_frame_corner_px": 180.2
+   },
+   "k1,k2": {
+    "rms_px": 0.6649,
+    "fx": 2924.8,
+    "k": [
+     0.1817,
+     -0.5223,
+     0.0
+    ],
+    "disp_at_covered_radius_px": 19.2,
+    "disp_at_frame_corner_px": -393.1
+   },
+   "k1,k2,k3": {
+    "rms_px": 0.6637,
+    "fx": 2925.2,
+    "k": [
+     0.1709,
+     -0.3986,
+     -0.3825
+    ],
+    "disp_at_covered_radius_px": 18.0,
+    "disp_at_frame_corner_px": -641.6
+   }
+  },
+  "most_influential_view": {
+   "file": "calib_target016.dng",
+   "fx_without_it": 2912.5
+  },
+  "vendor_vignette_center_px": [
+   2016.704696832,
+   1506.8986371936
+  ],
+  "principal_point_minus_vendor_center_px": [
+   7.434005449383449,
+   6.581133320779372
+  ]
+ },
+ "mtf": {
+  "units_note": "green plane G(0,1), sampled at 2p; Nyquist = 0.5 cy/green px = 1/(4p)",
+  "squares": {
+   "centre": {
+    "n_captures": 10,
+    "field_radius_norm": 0.081,
+    "mtf50_cy_per_green_px": [
+     0.2849,
+     0.0209
+    ],
+    "mtf50_cy_per_sensor_px": [
+     0.1424,
+     0.0105
+    ],
+    "mtf50_cy_per_mm": [
+     58.9,
+     4.3
+    ],
+    "mtf50_over_green_nyquist": 0.57,
+    "mtf_at_green_nyquist": [
+     0.205,
+     0.026
+    ],
+    "per_edge_mtf50_cy_per_green_px": {
+     "top": [
+      0.2302,
+      0.0188
+     ],
+     "left": [
+      0.2226,
+      0.0213
+     ],
+     "bottom": [
+      0.3012,
+      0.0256
+     ],
+     "right": [
+      0.3856,
+      0.0287
+     ]
+    },
+    "edge_angle_deg_range": [
+     -5.11,
+     5.19
+    ]
+   },
+   "top-right": {
+    "n_captures": 10,
+    "field_radius_norm": 0.362,
+    "mtf50_cy_per_green_px": [
+     0.2236,
+     0.0214
+    ],
+    "mtf50_cy_per_sensor_px": [
+     0.1118,
+     0.0107
+    ],
+    "mtf50_cy_per_mm": [
+     46.2,
+     4.4
+    ],
+    "mtf50_over_green_nyquist": 0.447,
+    "mtf_at_green_nyquist": [
+     0.146,
+     0.031
+    ],
+    "per_edge_mtf50_cy_per_green_px": {
+     "top": [
+      0.178,
+      0.0203
+     ],
+     "left": [
+      0.2864,
+      0.0353
+     ],
+     "bottom": [
+      0.2592,
+      0.0245
+     ],
+     "right": [
+      0.1709,
+      0.0229
+     ]
+    },
+    "edge_angle_deg_range": [
+     -5.67,
+     5.44
+    ],
+    "mtf50_ratio_to_centre": [
+     0.784,
+     0.034
+    ]
+   },
+   "bottom-right": {
+    "n_captures": 10,
+    "field_radius_norm": 0.366,
+    "mtf50_cy_per_green_px": [
+     0.2338,
+     0.0212
+    ],
+    "mtf50_cy_per_sensor_px": [
+     0.1169,
+     0.0106
+    ],
+    "mtf50_cy_per_mm": [
+     48.3,
+     4.4
+    ],
+    "mtf50_over_green_nyquist": 0.468,
+    "mtf_at_green_nyquist": [
+     0.159,
+     0.038
+    ],
+    "per_edge_mtf50_cy_per_green_px": {
+     "top": [
+      0.3273,
+      0.0478
+     ],
+     "left": [
+      0.2799,
+      0.0224
+     ],
+     "bottom": [
+      0.1484,
+      0.019
+     ],
+     "right": [
+      0.1794,
+      0.0228
+     ]
+    },
+    "edge_angle_deg_range": [
+     -4.42,
+     5.8
+    ],
+    "mtf50_ratio_to_centre": [
+     0.821,
+     0.043
+    ]
+   },
+   "top-left": {
+    "n_captures": 10,
+    "field_radius_norm": 0.46,
+    "mtf50_cy_per_green_px": [
+     0.1703,
+     0.0132
+    ],
+    "mtf50_cy_per_sensor_px": [
+     0.0851,
+     0.0066
+    ],
+    "mtf50_cy_per_mm": [
+     35.2,
+     2.7
+    ],
+    "mtf50_over_green_nyquist": 0.341,
+    "mtf_at_green_nyquist": [
+     0.109,
+     0.013
+    ],
+    "per_edge_mtf50_cy_per_green_px": {
+     "top": [
+      0.1363,
+      0.0097
+     ],
+     "left": [
+      0.1589,
+      0.0151
+     ],
+     "bottom": [
+      0.2174,
+      0.0225
+     ],
+     "right": [
+      0.1685,
+      0.0241
+     ]
+    },
+    "edge_angle_deg_range": [
+     -5.97,
+     4.96
+    ],
+    "mtf50_ratio_to_centre": [
+     0.598,
+     0.034
+    ]
+   },
+   "bottom-left": {
+    "n_captures": 10,
+    "field_radius_norm": 0.466,
+    "mtf50_cy_per_green_px": [
+     0.1882,
+     0.014
+    ],
+    "mtf50_cy_per_sensor_px": [
+     0.0941,
+     0.007
+    ],
+    "mtf50_cy_per_mm": [
+     38.9,
+     2.9
+    ],
+    "mtf50_over_green_nyquist": 0.376,
+    "mtf_at_green_nyquist": [
+     0.127,
+     0.013
+    ],
+    "per_edge_mtf50_cy_per_green_px": {
+     "top": [
+      0.2436,
+      0.0275
+     ],
+     "left": [
+      0.119,
+      0.0211
+     ],
+     "bottom": [
+      0.1829,
+      0.018
+     ],
+     "right": [
+      0.2074,
+      0.0217
+     ]
+    },
+    "edge_angle_deg_range": [
+     -5.04,
+     4.84
+    ],
+    "mtf50_ratio_to_centre": [
+     0.661,
+     0.023
+    ]
+   }
+  },
+  "corners_mean_mtf50_cy_per_green_px": [
+   0.204,
+   0.0155
+  ],
+  "corners_over_centre": [
+   0.716,
+   0.018
+  ],
+  "edges": [
+   {
+    "square": "centre",
+    "edge": "top",
+    "r_norm": 0.21,
+    "x_green_px": 887.0,
+    "mtf50": [
+     0.2302,
+     0.0188
+    ]
+   },
+   {
+    "square": "centre",
+    "edge": "left",
+    "r_norm": 0.268,
+    "x_green_px": 671.0,
+    "mtf50": [
+     0.2226,
+     0.0213
+    ]
+   },
+   {
+    "square": "centre",
+    "edge": "bottom",
+    "r_norm": 0.197,
+    "x_green_px": 925.0,
+    "mtf50": [
+     0.3012,
+     0.0256
+    ]
+   },
+   {
+    "square": "centre",
+    "edge": "right",
+    "r_norm": 0.106,
+    "x_green_px": 1141.0,
+    "mtf50": [
+     0.3856,
+     0.0287
+    ]
+   },
+   {
+    "square": "top-right",
+    "edge": "top",
+    "r_norm": 0.422,
+    "x_green_px": 1340.0,
+    "mtf50": [
+     0.178,
+     0.0203
+    ]
+   },
+   {
+    "square": "top-right",
+    "edge": "left",
+    "r_norm": 0.292,
+    "x_green_px": 1234.0,
+    "mtf50": [
+     0.2864,
+     0.0353
+    ]
+   },
+   {
+    "square": "top-right",
+    "edge": "bottom",
+    "r_norm": 0.316,
+    "x_green_px": 1360.0,
+    "mtf50": [
+     0.2592,
+     0.0245
+    ]
+   },
+   {
+    "square": "top-right",
+    "edge": "right",
+    "r_norm": 0.44,
+    "x_green_px": 1465.0,
+    "mtf50": [
+     0.1709,
+     0.0229
+    ]
+   },
+   {
+    "square": "bottom-right",
+    "edge": "top",
+    "r_norm": 0.303,
+    "x_green_px": 1340.0,
+    "mtf50": [
+     0.3273,
+     0.0478
+    ]
+   },
+   {
+    "square": "bottom-right",
+    "edge": "left",
+    "r_norm": 0.308,
+    "x_green_px": 1234.0,
+    "mtf50": [
+     0.2799,
+     0.0224
+    ]
+   },
+   {
+    "square": "bottom-right",
+    "edge": "bottom",
+    "r_norm": 0.438,
+    "x_green_px": 1363.0,
+    "mtf50": [
+     0.1484,
+     0.019
+    ]
+   },
+   {
+    "square": "bottom-right",
+    "edge": "right",
+    "r_norm": 0.435,
+    "x_green_px": 1468.0,
+    "mtf50": [
+     0.1794,
+     0.0228
+    ]
+   },
+   {
+    "square": "top-left",
+    "edge": "top",
+    "r_norm": 0.517,
+    "x_green_px": 503.0,
+    "mtf50": [
+     0.1363,
+     0.0097
+    ]
+   },
+   {
+    "square": "top-left",
+    "edge": "left",
+    "r_norm": 0.535,
+    "x_green_px": 400.0,
+    "mtf50": [
+     0.1589,
+     0.0151
+    ]
+   },
+   {
+    "square": "top-left",
+    "edge": "bottom",
+    "r_norm": 0.415,
+    "x_green_px": 520.0,
+    "mtf50": [
+     0.2174,
+     0.0225
+    ]
+   },
+   {
+    "square": "top-left",
+    "edge": "right",
+    "r_norm": 0.393,
+    "x_green_px": 622.0,
+    "mtf50": [
+     0.1685,
+     0.0241
+    ]
+   },
+   {
+    "square": "bottom-left",
+    "edge": "top",
+    "r_norm": 0.434,
+    "x_green_px": 493.0,
+    "mtf50": [
+     0.2436,
+     0.0275
+    ]
+   },
+   {
+    "square": "bottom-left",
+    "edge": "left",
+    "r_norm": 0.548,
+    "x_green_px": 389.0,
+    "mtf50": [
+     0.119,
+     0.0211
+    ]
+   },
+   {
+    "square": "bottom-left",
+    "edge": "bottom",
+    "r_norm": 0.513,
+    "x_green_px": 510.0,
+    "mtf50": [
+     0.1829,
+     0.018
+    ]
+   },
+   {
+    "square": "bottom-left",
+    "edge": "right",
+    "r_norm": 0.388,
+    "x_green_px": 614.0,
+    "mtf50": [
+     0.2074,
+     0.0217
+    ]
+   }
+  ],
+  "mtf50_vs_radius_linear_fit": {
+   "slope_per_unit_r": -0.493,
+   "intercept": 0.405
+  },
+  "left_half_vs_right_half_mean_mtf50": [
+   0.1989,
+   0.2461
+  ],
+  "prediction_diffraction_x_pixel": {
+   "lambda_um": 0.55,
+   "pitch_um": 2.4198,
+   "nu_c_cy_per_um": 1.0101,
+   "green_nyquist_cy_per_um": 0.1033,
+   "pred_mtf_at_green_nyquist": 0.783
+  }
+ },
+ "noise": {
+  "patch": "128 x 128 green G(0,1) at frame centre",
+  "n_pairs": 10,
+  "n_used_below_70pct": 8,
+  "black_dn": 528.0,
+  "white_dn": 4095.0,
+  "iso": [
+   64.0
+  ],
+  "pair_mean_mismatch_max_pct": 0.088,
+  "conversion_gain_dn_per_e": [
+   0.2727,
+   0.0142
+  ],
+  "e_per_dn": [
+   3.667,
+   0.191
+  ],
+  "read_noise_e": [
+   6.68,
+   0.61
+  ],
+  "intercept_dn2": [
+   3.324,
+   0.431
+  ],
+  "fit_reduced_chi2": 125.23,
+  "single_frame_gain_dn_per_e": [
+   0.2977,
+   0.0239
+  ],
+  "single_frame_bias_pct": 9.1,
+  "apparent_gain_range": [
+   0.243,
+   0.351
+  ],
+  "shortest_dark_variance_dn2": 3.323,
+  "shortest_dark_s": 0.002,
+  "snr_knee_e": 44.7,
+  "snr_knee_dn": 12.19,
+  "full_well_e": [
+   13079.0,
+   680.0
+  ],
+  "dark_current_e_per_s": [
+   8.41,
+   0.44
+  ],
+  "dark_exposures_s": [
+   0.002,
+   0.04,
+   1.0
+  ],
+  "dark_frames": [
+   {
+    "t_s": 1.0,
+    "mean_above_black_dn": 1.837
+   },
+   {
+    "t_s": 0.002,
+    "mean_above_black_dn": -0.462
+   },
+   {
+    "t_s": 0.04,
+    "mean_above_black_dn": -0.371
+   },
+   {
+    "t_s": 1.0,
+    "mean_above_black_dn": 1.823
+   }
+  ],
+  "vendor_noise_profile": {
+   "S_O": [
+    8.85807e-05,
+    9.87416e-07
+   ],
+   "gain_dn_per_e": 0.316,
+   "read_noise_e": 11.22,
+   "intercept_dn2": 12.56
+  },
+  "points": {
+   "mean_dn": [
+    0.618,
+    28.413,
+    82.354,
+    226.902,
+    642.166,
+    1224.193,
+    1581.017,
+    2061.418,
+    2726.13,
+    3147.905
+   ],
+   "var_pair_dn2": [
+    3.648,
+    10.407,
+    23.595,
+    58.438,
+    169.738,
+    367.949,
+    465.587,
+    727.794,
+    878.992,
+    1033.108
+   ],
+   "var_single_dn2": [
+    3.669,
+    10.466,
+    23.744,
+    61.101,
+    188.145,
+    427.214,
+    573.538,
+    883.768,
+    1167.129,
+    1395.448
+   ],
+   "used": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    false,
+    false
+   ]
+  }
+ },
+ "dynamic_range": {
+  "criterion": "floor = read noise (SNR = 1 at the floor, engineering DR); top = ADC clip (W - B)",
+  "stops": [
+   10.93,
+   0.09
+  ],
+  "dB": [
+   65.8,
+   0.6
+  ],
+  "alt_floor_snr_exactly_1_stops": 10.83,
+  "full_well_e": [
+   13079.0,
+   680.0
+  ]
+ },
+ "color": {
+  "metric": "CIEDE2000",
+  "reference": "colour-science 'ColorChecker24 - After November 2014' (D50); Lab white = patch 19",
+  "illuminant_round": 1,
+  "charts": [
+   "ILU1_1.dng",
+   "ILU1_2.dng",
+   "ILU1_3.dng"
+  ],
+  "white_balance_patch": "neutral 5 (.70 D)",
+  "mean_before": [
+   11.74,
+   0.09
+  ],
+  "worst_before": [
+   19.51,
+   0.43
+  ],
+  "worst_before_patch": "yellow green",
+  "mean_after": [
+   2.45,
+   0.11
+  ],
+  "worst_after": [
+   5.17,
+   0.26
+  ],
+  "worst_after_patch": "purplish blue",
+  "mean_after_leave_one_chart_out": [
+   2.53,
+   0.1
+  ],
+  "vendor_forward_matrix_mean": [
+   6.32,
+   0.12
+  ],
+  "vendor_forward_matrix_worst": [
+   11.51,
+   0.2
+  ],
+  "vendor_cct_K": 3169.0,
+  "ccm_mean": [
+   [
+    1.4507,
+    0.8608,
+    0.2996
+   ],
+   [
+    0.2148,
+    2.5343,
+    -0.0383
+   ],
+   [
+    0.0592,
+    -1.0,
+    3.1746
+   ]
+  ],
+  "ccm_max_column_angle_between_charts_deg": 2.25,
+  "wb_gains_rgb": [
+   1.646,
+   1.0,
+   3.296
+  ],
+  "orientation_checks": [
+   {
+    "file": "ILU1_1.dng",
+    "rot_deg": 180,
+    "lum_rank_corr": 0.985,
+    "neutrals_decrease": true
+   },
+   {
+    "file": "ILU1_2.dng",
+    "rot_deg": 180,
+    "lum_rank_corr": 0.987,
+    "neutrals_decrease": true
+   },
+   {
+    "file": "ILU1_3.dng",
+    "rot_deg": 180,
+    "lum_rank_corr": 0.988,
+    "neutrals_decrease": true
+   }
+  ],
+  "per_patch": [
+   {
+    "patch": 1,
+    "name": "dark skin",
+    "before": [
+     12.43,
+     0.25
+    ],
+    "after": [
+     2.11,
+     0.38
+    ],
+    "vendor_forward_matrix": [
+     6.02,
+     0.21
+    ]
+   },
+   {
+    "patch": 2,
+    "name": "light skin",
+    "before": [
+     14.87,
+     0.02
+    ],
+    "after": [
+     3.94,
+     0.2
+    ],
+    "vendor_forward_matrix": [
+     5.89,
+     0.03
+    ]
+   },
+   {
+    "patch": 3,
+    "name": "blue sky",
+    "before": [
+     1.89,
+     0.18
+    ],
+    "after": [
+     1.88,
+     0.14
+    ],
+    "vendor_forward_matrix": [
+     4.23,
+     0.25
+    ]
+   },
+   {
+    "patch": 4,
+    "name": "foliage",
+    "before": [
+     15.47,
+     0.31
+    ],
+    "after": [
+     2.98,
+     0.64
+    ],
+    "vendor_forward_matrix": [
+     7.04,
+     0.29
+    ]
+   },
+   {
+    "patch": 5,
+    "name": "blue flower",
+    "before": [
+     5.77,
+     0.22
+    ],
+    "after": [
+     2.3,
+     0.05
+    ],
+    "vendor_forward_matrix": [
+     5.28,
+     0.35
+    ]
+   },
+   {
+    "patch": 6,
+    "name": "bluish green",
+    "before": [
+     17.62,
+     0.21
+    ],
+    "after": [
+     2.7,
+     0.17
+    ],
+    "vendor_forward_matrix": [
+     9.78,
+     0.24
+    ]
+   },
+   {
+    "patch": 7,
+    "name": "orange",
+    "before": [
+     12.89,
+     0.14
+    ],
+    "after": [
+     2.64,
+     0.4
+    ],
+    "vendor_forward_matrix": [
+     8.83,
+     0.14
+    ]
+   },
+   {
+    "patch": 8,
+    "name": "purplish blue",
+    "before": [
+     3.54,
+     1.4
+    ],
+    "after": [
+     5.17,
+     0.26
+    ],
+    "vendor_forward_matrix": [
+     4.17,
+     1.0
+    ]
+   },
+   {
+    "patch": 9,
+    "name": "moderate red",
+    "before": [
+     12.5,
+     0.19
+    ],
+    "after": [
+     2.34,
+     0.47
+    ],
+    "vendor_forward_matrix": [
+     8.45,
+     0.18
+    ]
+   },
+   {
+    "patch": 10,
+    "name": "purple",
+    "before": [
+     9.48,
+     0.2
+    ],
+    "after": [
+     3.7,
+     0.37
+    ],
+    "vendor_forward_matrix": [
+     8.33,
+     0.17
+    ]
+   },
+   {
+    "patch": 11,
+    "name": "yellow green",
+    "before": [
+     19.51,
+     0.43
+    ],
+    "after": [
+     0.83,
+     0.22
+    ],
+    "vendor_forward_matrix": [
+     10.5,
+     0.41
+    ]
+   },
+   {
+    "patch": 12,
+    "name": "orange yellow",
+    "before": [
+     16.57,
+     0.41
+    ],
+    "after": [
+     1.66,
+     0.33
+    ],
+    "vendor_forward_matrix": [
+     10.77,
+     0.39
+    ]
+   },
+   {
+    "patch": 13,
+    "name": "blue",
+    "before": [
+     2.54,
+     0.26
+    ],
+    "after": [
+     4.18,
+     0.5
+    ],
+    "vendor_forward_matrix": [
+     4.38,
+     0.43
+    ]
+   },
+   {
+    "patch": 14,
+    "name": "green",
+    "before": [
+     18.14,
+     0.43
+    ],
+    "after": [
+     2.16,
+     0.53
+    ],
+    "vendor_forward_matrix": [
+     9.62,
+     0.39
+    ]
+   },
+   {
+    "patch": 15,
+    "name": "red",
+    "before": [
+     12.69,
+     0.1
+    ],
+    "after": [
+     3.62,
+     0.32
+    ],
+    "vendor_forward_matrix": [
+     9.11,
+     0.09
+    ]
+   },
+   {
+    "patch": 16,
+    "name": "yellow",
+    "before": [
+     19.32,
+     0.28
+    ],
+    "after": [
+     1.93,
+     0.31
+    ],
+    "vendor_forward_matrix": [
+     11.51,
+     0.2
+    ]
+   },
+   {
+    "patch": 17,
+    "name": "magenta",
+    "before": [
+     12.74,
+     0.06
+    ],
+    "after": [
+     1.64,
+     0.41
+    ],
+    "vendor_forward_matrix": [
+     9.47,
+     0.11
+    ]
+   },
+   {
+    "patch": 18,
+    "name": "cyan",
+    "before": [
+     13.11,
+     0.14
+    ],
+    "after": [
+     4.74,
+     0.11
+    ],
+    "vendor_forward_matrix": [
+     10.38,
+     0.07
+    ]
+   },
+   {
+    "patch": 19,
+    "name": "white 9.5 (.05 D)",
+    "before": [
+     14.43,
+     0.26
+    ],
+    "after": [
+     0.45,
+     0.14
+    ],
+    "vendor_forward_matrix": [
+     1.47,
+     0.71
+    ]
+   },
+   {
+    "patch": 20,
+    "name": "neutral 8 (.23 D)",
+    "before": [
+     12.1,
+     0.07
+    ],
+    "after": [
+     1.49,
+     0.43
+    ],
+    "vendor_forward_matrix": [
+     0.69,
+     0.12
+    ]
+   },
+   {
+    "patch": 21,
+    "name": "neutral 6.5 (.44 D)",
+    "before": [
+     10.35,
+     0.17
+    ],
+    "after": [
+     0.75,
+     0.2
+    ],
+    "vendor_forward_matrix": [
+     0.66,
+     0.29
+    ]
+   },
+   {
+    "patch": 22,
+    "name": "neutral 5 (.70 D)",
+    "before": [
+     9.08,
+     0.02
+    ],
+    "after": [
+     0.84,
+     0.55
+    ],
+    "vendor_forward_matrix": [
+     0.76,
+     0.44
+    ]
+   },
+   {
+    "patch": 23,
+    "name": "neutral 3.5 (1.05 D)",
+    "before": [
+     7.82,
+     0.22
+    ],
+    "after": [
+     1.75,
+     0.45
+    ],
+    "vendor_forward_matrix": [
+     1.57,
+     0.33
+    ]
+   },
+   {
+    "patch": 24,
+    "name": "black 2 (1.5 D)",
+    "before": [
+     6.98,
+     0.14
+    ],
+    "after": [
+     2.9,
+     0.06
+    ],
+    "vendor_forward_matrix": [
+     2.67,
+     0.11
+    ]
+   }
+  ]
+ },
+ "meta": {
+  "generated": "2026-11-03 23:00",
+  "convention": "[value, 1-sigma uncertainty]",
+  "config": {
+   "calibration_dir": "../A2/calib_target_img",
+   "board_inner": [
+    9,
+    6
+   ],
+   "square_mm": 20.0,
+   "square_mm_uncertainty": 0.5,
+   "edge_dir": "../A2/slanted_edge_taget_img",
+   "flat_dir": "../A3/flat_field_pairs",
+   "dark_dir": "../A3/dark_field",
+   "color_dir": "../A4/color_chart_imgs",
+   "color_round": 1,
+   "lambda_um": 0.55,
+   "cache_dir": "cache",
+   "out_dir": "results"
+  }
+ }
+}

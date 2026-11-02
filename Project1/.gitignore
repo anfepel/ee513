@@ -1,0 +1,8 @@
+cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# raw captures live outside the repo (see data/README.md)
+*.dng
+*.DNG
