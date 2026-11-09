@@ -1,6 +1,6 @@
 # Raw captures
 
-The A2–A4 raw files are too big for git (about 660 MB), so they live in the GitHub Release as `captures.zip`. Unzip it at the top of the repo and it puts each folder back where the notebooks expect it:
+The A2–A4 raw files are too big for git so they live in captures.zip. Unzip it at the top of the repo and it puts each folder back where the notebooks expect it:
 
 | Folder | Files | What | Captured |
 |---|---|---|---|
@@ -10,6 +10,5 @@ The A2–A4 raw files are too big for git (about 660 MB), so they live in the Gi
 | `A3/dark_field` | 4 | lens covered, ISO 64, 2 ms, 40 ms and 1 s (×2) | Oct 20 |
 | `A4/color_chart_imgs` | 12 | three ColorChecker Minis under three lights, plus a white sheet per light, ISO 400 | Oct 22 |
 
-(`slanted_edge_taget_img` is misspelled, but it's the folder name the notebooks use, so I left it.)
 
-The Exercise 1 captures in `A1/` are already in git from week 1.
+A1 has the right images in its folder
